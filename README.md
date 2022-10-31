@@ -11,11 +11,11 @@ Building a Drum Kit
   <li>Semantic HTML5 markup</li>
   <Li>CSS custom properties</li>
   <li>CSS Styles properties</li>
-  <li>Javascript scripts<li>
+  <li>Javascript scripts</li>
 </ul>
 
 ## Author
 
   <ul>
-    <li><strong>Linkedin</strong> - https://www.linkedin.com/in/chrysthianprudencio/ </li>
+    <li><strong>Linkedin</strong> - https://www.linkedin.com/in/chrysthianprudencio/ 
   </ul>
